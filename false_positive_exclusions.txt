@@ -8,11 +8,11 @@ DeviantArt
 Discord.bio
 Envato Forum
 Giphy
+GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
-LiveJournal
-Minecraft
 Motherless
 Patched
 Rarible
@@ -31,7 +31,6 @@ Velomania
 Weblate
 YandexMusic
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
