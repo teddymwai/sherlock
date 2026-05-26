@@ -15,7 +15,6 @@ Hubski
 LessWrong
 Patched
 Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -23,6 +22,7 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
@@ -40,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
