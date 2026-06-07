@@ -14,24 +14,28 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+OurDJTalk
 Patched
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -41,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
