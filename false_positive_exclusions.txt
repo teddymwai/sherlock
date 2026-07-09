@@ -5,13 +5,13 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
@@ -39,7 +39,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
