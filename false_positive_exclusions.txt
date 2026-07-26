@@ -5,18 +5,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -31,8 +31,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -43,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
