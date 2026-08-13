@@ -5,8 +5,10 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -34,7 +36,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -46,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
