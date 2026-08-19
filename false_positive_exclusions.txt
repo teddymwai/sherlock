@@ -6,6 +6,7 @@ Archive.org
 Bandcamp
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,7 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Odysee
 PCGamer
 Patched
@@ -31,9 +31,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
