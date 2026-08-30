@@ -7,7 +7,6 @@ Bandcamp
 Championat
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,8 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-LushStories
+LiveJournal
 Minecraft
 Odysee
 PCGamer
@@ -34,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
