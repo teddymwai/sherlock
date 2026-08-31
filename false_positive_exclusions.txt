@@ -17,7 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Itch.io
 Minecraft
 Odysee
 PCGamer
@@ -45,6 +45,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
