@@ -10,7 +10,6 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
@@ -18,7 +17,6 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
-Odysee
 PCGamer
 Rarible
 Realmeye
