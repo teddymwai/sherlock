@@ -23,6 +23,7 @@ ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -32,7 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
