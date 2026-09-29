@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -39,7 +40,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-YandexMusic
 authorSTREAM
 dailykos
 fixya
@@ -51,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
