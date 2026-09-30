@@ -21,6 +21,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -40,6 +41,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+YandexMusic
 authorSTREAM
 dailykos
 fixya
