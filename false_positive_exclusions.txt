@@ -7,7 +7,6 @@ Bandcamp
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -21,6 +20,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,6 +29,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
