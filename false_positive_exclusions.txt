@@ -1,7 +1,5 @@
-APClips
 Airliners
 Apple Developer
-Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
@@ -14,9 +12,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -41,4 +41,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
