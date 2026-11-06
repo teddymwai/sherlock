@@ -1,9 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
+Audiojungle
 Championat
 Chatujme.cz
 Codolio
@@ -18,7 +17,6 @@ Instapaper
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
