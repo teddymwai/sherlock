@@ -2,7 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Audiojungle
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -10,6 +11,7 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
+Gumroad
 HackerNews
 Hashnode
 Hubski
@@ -34,6 +36,7 @@ Vero
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
