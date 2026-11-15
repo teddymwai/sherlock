@@ -1,9 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -19,7 +19,6 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Tenor
 TryHackMe
 Velomania
 Vero
