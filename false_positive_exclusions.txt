@@ -1,9 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
+Coders Rank
 Codolio
 DeviantArt
 Discord.bio
@@ -14,8 +14,10 @@ Hashnode
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -41,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
